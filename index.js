@@ -20,7 +20,7 @@ function logWhisper(string) {
  }
 
  if (string.toUpperCase() === string) {
-   retrun " YES INDEED!"
+   retrun "YES INDEED!"
  }
 
  if (string === "I love you, Grandma.") {
